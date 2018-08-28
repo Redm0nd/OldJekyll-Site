@@ -16,9 +16,9 @@
 title: Dylan Redmond
 email: dylanredmond96@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-Hi I'm Dylan Redmond. A 22 year old Electronic & Computer Engineering Graduate
-from Dublin City University. I am currently working in Dublin with Paddy Power
-Betfair as an Infrastructure Graduate.
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
