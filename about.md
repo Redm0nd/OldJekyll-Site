@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Dylan Redmond.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm an 'Infrastructure Engineer' based in Dublin, Ireland. I am currently working for [Paddy Power Betfair](https://www.paddypowerbetfair.com/).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I studied Electronic and Computer Engineering at [Dublin City University[(https://www.dcu.ie/).
 
+I have been with PPB since January 2017 where I joined the Football Exchange Operations team on a part-time basis. In this role I was responsible for managing the in-play exchange markets for the highest profile matches across World Football.
 
-[jekyll-organization]: https://github.com/jekyll
+In my spare time, you can find me Refereeing football in Dublin across the [NDSL](http://ndsl.ie/] and [Airtricity Underage Leagues](http://www.sseairtricityleague.ie/).
+
+I also love to watch football, play Football Manager and play Poker.
