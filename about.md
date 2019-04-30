@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, I'm Dylan Redmond.
 
-I'm an incoming `Infrastructure Engineer` based in Dublin, Ireland. I am currently working for [Paddy Power Betfair](https://www.paddypowerbetfair.com/).
+I'm an Graduate `Cloud Automation Engineer` based in Dublin, Ireland. I am currently working for [Paddy Power Betfair](https://www.paddypowerbetfair.com/).
 
 I studied Electronic and Computer Engineering at [Dublin City University](https://www.dcu.ie/).
 
@@ -15,4 +15,4 @@ In this role I was responsible for managing the in-play [Exchange](https://www.b
 
 In my spare time, you can find me Refereeing football in Dublin across the [NDSL](http://ndsl.ie/) and [Airtricity Underage Leagues](http://www.sseairtricityleague.ie/).
 
-I also love to watch football, play Football Manager and Poker.
+I also love to watch football, play Football Manager and games of chance.
