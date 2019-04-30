@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, I'm Dylan Redmond.
 
-I'm an Graduate `Cloud Automation Engineer` based in Dublin, Ireland. I am currently working for [Paddy Power Betfair](https://www.paddypowerbetfair.com/).
+I'm a Graduate `Cloud Automation Engineer` based in Dublin, Ireland. I am currently working for [Paddy Power Betfair](https://www.paddypowerbetfair.com/).
 
 I studied Electronic and Computer Engineering at [Dublin City University](https://www.dcu.ie/).
 
